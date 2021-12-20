@@ -29,7 +29,7 @@
 - WAN-USB3-Ethernet: For best results use a usb nic rtl-8152-3 / asix-ax88179
 	- recommended; (note: advise to retain default eth1 in wan settings )
 		- -> TP-LINK UE300 USB3
-        - (edit: uni model usb3.0 also said to use rtl8153 sample url https://www.amazon.com/dp/B087QFQW6F?psc=1&ref=ppx_yo2_dt_b_product_details) avoid using amazon if possible
+        - (edit: uni model usb3.0 also said to use rtl8153 sample url https://www.amazon.com/dp/B087QFQW6F?psc=1&ref=ppx_yo2_dt_b_product_details) 
 	- see below: for alternate VLAN ( router-on-a-stick ) tips/alternate approach    
 
 
